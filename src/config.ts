@@ -1,11 +1,11 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://simon.archtech.consulting/", // replace this with your deployed domain
   author: "Simon",
   keywords: "jasa pembuatan website murah kota tangerang,jasa pembuatan website perusahaan murah kota tangerang,jasa pembuatan website sekolah murah kota tangerang,jasa pembuatan landing page sekolah murah kota tangerang,jasa pembuatan landing page, jasa pembuatan webiste, jasa pembuatan landing page murah,jasa pembuatan landing page kota tangerang",
-  profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  profile: "",
+  desc: "Jasa Pembuatan Website Murah Tangerang, Jasa Pembuatan Landing Page Sekolah Murah.",
   title: "Simon Lifestyle Blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
